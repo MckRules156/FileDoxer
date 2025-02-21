@@ -1,6 +1,6 @@
 #!/bin/bash
 #$cript by: MckRules156 (20/02/2025)
-#Doxeador de archivos para Sistemas Unix.
+#Doxeador de archivos para sistemas Linux/Termux
 #https://github.com/MckRules156
 
 # Banner
